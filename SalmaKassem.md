@@ -13,16 +13,21 @@ Skills
 
 Projects
 
-    Document Summarization Tool:
-    Scalable NLP application utilizing Hugging Face BART, TF-IDF, and Streamlit for multi-format document processing.
-    https://github.com/Salma22C/AIprojects/tree/main/Text%20Summarization%20Tool
+   1. **[Document Summarization Tool](https://github.com/Salma22C/AIprojects/tree/main/Text%20Summarization%20Tool)**:  
+   Scalable NLP application utilizing Hugging Face BART, TF-IDF, and Streamlit for multi-format document processing.  
 
-    AWS Cloud Architecting Capstone:
-    Designed a high-availability architecture with Aurora Serverless, EC2 Auto Scaling, and an Application Load Balancer.
+  2. **[AWS Cloud Architecting Capstone](https://github.com/Salma22C/AIprojects/tree/main/Text%20Summarization%20Tool)**:  
+   Designed a high-availability architecture with Aurora Serverless, EC2 Auto Scaling, and an Application Load Balancer. 
 
 🌟 What I’m Working On:
     Enhancing AI model deployment with secure and scalable cloud solutions.
 
 📫 Let’s Connect:
 
-    [LinkedIn](https://www.linkedin.com/in/salma-mohamed-kassem/) | [email]salmakassem6@gmail.com
+
+
+
+ 
+
+
+
