@@ -1,33 +1,44 @@
+# 💫 About Me:
+Hi, I’m Salma! 👋  
 
- **Welcome to My GitHub! 👋**  
+I’m a *Cloud AI Engineer* and *AI Practitioner, passionate about AI and cloud computing. With **2x AWS certifications*, I enjoy solving complex problems, collaborating on innovative projects, and continuously learning. When I’m not working on tech, I love reading, writing, and exploring new ideas.  
 
-Hi, I’m Salma, a Computer Science graduate passionate about **cloud computing** and **artificial intelligence**, with expertise in **AWS services** and **machine learning frameworks**. My focus lies in building **secure, scalable solutions** and exploring innovative **AI applications**.  
+📫 *Let’s connect!* Open to exciting opportunities and collaborations.  
 
- **🛠 Skills**  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmakassem6@gmail.com)  
 
-- **Programming Languages**: Python  
-- **Machine Learning & AI**: Knowledge of ML, DL, NLP  
-- **Frameworks & Libraries**: PyTorch, Hugging Face Transformers, Scikit-learn, NLTK  
-- **AWS Services**: Proficient in S3, EC2, Lambda, IAM, CloudWatch  
-- **Cloud Infrastructure**: EC2, Lambda, VPC, IAM, Auto Scaling, CloudFormation, CloudWatch  
-- **Networking**: TCP/IP, OSI Model, VPCs, subnets, security groups  
+# 💻 Tech Stack:
+### 🔹 Programming & Scripting:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
- **🏆 Certifications**  
-- **AWS Certified Cloud Practitioner**  
-- **AWS Certified Solutions Architect – Associate (SAA-C03)**  
+### 🔹 AI/ML & NLP:
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white)  
 
- **🚀 Projects**  
+### 🔹 Cloud & DevOps:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-1️⃣ [Document Summarization Tool](https://github.com/Salma22C/AIprojects/tree/main/Text%20Summarization%20Tool)
-   - Scalable **NLP application** utilizing **Hugging Face BART, TF-IDF, and Streamlit** for multi-format document processing.  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SalmaMohamed22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=SalmaMohamed22&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaMohamed22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-2️⃣ **[AWS Cloud Architecting Capstone](https://github.com/Salma22C/AIprojects/tree/main/Text%20Summarization%20Tool)**  
-   - Designed a **high-availability cloud architecture** with **Aurora Serverless, EC2 Auto Scaling, and an Application Load Balancer**.  
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=SalmaMohamed22&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
-🌟 **What I’m Working On**  
-Enhancing **AI model deployment** with **secure and scalable cloud solutions**.  
+### ✍ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-📫 Let’s Connect
-💼 [LinkedIn](http://www.linkedin.com/in/salma-mohamed-kassem) |📧 Email: [salmakassem6@gmail.com](mailto:salmakassem6@gmail.com)  
-
+---
+[![](https://visitcount.itsvg.in/api?id=SalmaMohamed22&icon=0&color=0)](https://visitcount.itsvg.in)  
 
