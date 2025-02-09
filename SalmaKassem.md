@@ -19,8 +19,7 @@ I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud co
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SalmaMohamed22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmakassem6@gmail.com)  
