@@ -3,7 +3,6 @@ Hi, I’m Salma! 👋
 
 I’m a *Cloud AI Engineer* and *AI Practitioner, passionate about AI and cloud computing. With **2x AWS certifications*, I enjoy solving complex problems, collaborating on innovative projects, and continuously learning. When I’m not working on tech, I love reading, writing, and exploring new ideas.  
 
-📫 *Let’s connect!* Open to exciting opportunities and collaborations.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
@@ -24,17 +23,11 @@ I’m a *Cloud AI Engineer* and *AI Practitioner, passionate about AI and cloud 
 
 ### 🔹 Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SalmaMohamed22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SalmaMohamed22&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaMohamed22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=SalmaMohamed22&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ### ✍ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
