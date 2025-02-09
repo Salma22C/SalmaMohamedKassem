@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Salma! 👋  
+
+ 
 
 I’m a *Cloud AI Engineer* and *AI Practitioner, passionate about AI and cloud computing. With **2x AWS certifications*, I enjoy solving complex problems, collaborating on innovative projects, and continuously learning. When I’m not working on tech, I love reading, writing, and exploring new ideas.  
 
@@ -9,19 +9,15 @@ I’m a *Cloud AI Engineer* and *AI Practitioner, passionate about AI and cloud 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmakassem6@gmail.com)  
 
 # 💻 Tech Stack:
-### 🔹 Programming & Scripting:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
-### 🔹 AI/ML & NLP:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white)  
-
-### 🔹 Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
