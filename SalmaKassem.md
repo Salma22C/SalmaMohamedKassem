@@ -1,7 +1,7 @@
 
  
 
-I’m a *Cloud AI Engineer* and *AI Practitioner, passionate about AI and cloud computing. With **2x AWS certifications*, I enjoy solving complex problems, collaborating on innovative projects, and continuously learning. When I’m not working on tech, I love reading, writing, and exploring new ideas.  
+I’m a *Cloud AI Engineer* and *AI Practitioner*, passionate about AI and cloud computing. With **2x AWS certifications*, I enjoy solving complex problems, collaborating on innovative projects, and continuously learning. When I’m not working on tech, I love reading, writing, and exploring new ideas.  
 
 
 ## 🌐 Socials:
