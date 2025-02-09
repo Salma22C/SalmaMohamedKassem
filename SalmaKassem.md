@@ -1,8 +1,5 @@
 I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud computing. With **2x AWS certifications**, I enjoy solving complex problems, collaborating on innovative projects, and continuously learning. When I’m not working on tech, I love reading, writing, and exploring new ideas.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmakassem6@gmail.com)  
 
 ## 🎓 Certifications:
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -24,6 +21,10 @@ I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud co
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SalmaMohamed22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmakassem6@gmail.com)  
+
 
 ### ✍ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
