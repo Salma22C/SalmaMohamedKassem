@@ -19,11 +19,17 @@ I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud co
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
+## 🔥 Projects:
+
+- **[High Availability and Security for PHP Applications](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20and%20Security%20for%20PHP%20Applications%20)**  
+  *Designed a secure, scalable AWS architecture for PHP applications, ensuring high availability and enhanced security measures.*
+
+- **[Text Summarization Tool](https://github.com/Salma22C/AIprojects/blob/main/Text%20Summarization%20Tool/%20textsumm.py)**  
+  *Developed an AI-powered text summarization tool using NLP techniques to generate concise and accurate summaries.*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmakassem6@gmail.com)  
-
 
 ### ✍ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
