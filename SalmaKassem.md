@@ -26,6 +26,12 @@ I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud co
 
 - **[Text Summarization Tool](https://github.com/Salma22C/AIprojects/blob/main/Text%20Summarization%20Tool/%20textsumm.py)**  
   *Developed an AI-powered text summarization tool using NLP techniques to generate concise and accurate summaries.*
+  
+## 📄 Research & Publications:
+
+- **[NLP Problems and Evolution](#)** *(In Progress)*  
+  *A comprehensive analysis of challenges in Natural Language Processing (NLP), its evolution over time, and future directions.*  
+  🔍 **Topics Covered:** Large Language Models (LLMs), Bias in NLP, Data Efficiency, and Future Research Areas.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
