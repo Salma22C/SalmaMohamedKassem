@@ -15,7 +15,7 @@ I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud co
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white) 
-![Langchain](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=purple) 
+![Langchain](https://img.shields.io/badge/Langchain-0098D3?style=for-the-badge&logo=python&logoColor=purple) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
