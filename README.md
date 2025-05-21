@@ -28,6 +28,7 @@ I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud co
 - **[Text Summarization Tool](https://github.com/Salma22C/AIprojects/blob/main/Text%20Summarization%20Tool/%20textsumm.py)**  
   *Developed an AI-powered text summarization tool using NLP techniques to generate concise and accurate summaries.*
 - **[SmartBook AI – AI-Generated Interactive Video Ad](https://drive.google.com/file/d/1hVCBrN2lwGb4EfjzW1cQUwJD9IRsgr1w/view?usp=sharing)**
+
 *Created a short interactive video ad for a fictional talking notebook using DALL·E, ElevenLabs, Canva, and CapCut.*
 *Integrated AI-generated visuals, voiceovers, and emotional storytelling to showcase creative use of generative AI in product branding.*
   
