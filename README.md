@@ -27,7 +27,6 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
@@ -35,9 +34,8 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-0098D3?style=for-the-badge&logo=python&logoColor=green)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
-
-![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=pink)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=red)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 
