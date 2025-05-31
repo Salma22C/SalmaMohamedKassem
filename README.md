@@ -42,8 +42,30 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
 
 </div>
+## ⚙️ Other Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 700px;"> <div style="flex: 1; min-width: 200px; background: #f0f4f8; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <h4 style="margin-bottom: 10px; color: #0073bb;">Cloud Security 🔒</h4> <ul style="list-style: none; padding-left: 0; line-height: 1.6; color: #333;"> <li>IAM (Identity & Access Management)</li> <li>Security Groups & Network ACLs</li> <li>Encryption (KMS)</li> </ul> </div> <div style="flex: 1; min-width: 200px; background: #f9f6ef; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <h4 style="margin-bottom: 10px; color: #db4c3f;">Networking 🌐</h4> <ul style="list-style: none; padding-left: 0; line-height: 1.6; color: #333;"> <li>TCP/IP & OSI Model</li> <li>VPCs & Subnets</li> <li>Route Tables & Gateways</li> </ul> </div> <div style="flex: 1; min-width: 200px; background: #eef7f6; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <h4 style="margin-bottom: 10px; color: #008080;">Data Analysis & Visualization 📊</h4> <ul style="list-style: none; padding-left: 0; line-height: 1.6; color: #333;"> <li>Power BI</li> <li>KPI Dashboards</li> <li>Excel Data Modeling</li> </ul> </div> </div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 500px;">
+
+  <div style="flex: 1; min-width: 220px; background: #FFE5E5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 0, 0, 0.1);">
+    <h4 style="color: #D32F2F; margin-bottom: 12px;">🔒 Cloud Security</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #5D1E1E; line-height: 1.6;">
+      <li>IAM (Identity & Access Management)</li>
+      <li>Security Groups & Network ACLs</li>
+      <li>Encryption (KMS)</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 220px; background: #E0F7FA; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 150, 136, 0.1);">
+    <h4 style="color: #00796B; margin-bottom: 12px;">🌐 Networking</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #004D40; line-height: 1.6;">
+      <li>TCP/IP & OSI Model</li>
+      <li>VPCs & Subnets</li>
+      <li>Route Tables & Gateways</li>
+    </ul>
+  </div>
+
+</div>
+
 
 
 
