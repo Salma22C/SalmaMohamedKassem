@@ -46,55 +46,56 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 ## ⚙️ Other Skills
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 1100px; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 960px; margin-top: 20px;">
 
-  <div style="background: #FFE5E5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 0, 0, 0.1);">
-    <h4 style="color: #D32F2F; margin-bottom: 12px;">🔒 Cloud Security</h4>
-    <ul style="list-style:none; padding-left:0; color: #5D1E1E; line-height: 1.6;">
+  <div style="flex: 1; min-width: 230px; background: linear-gradient(135deg, #FFEBEE, #FFCDD2); border-radius: 16px; padding: 24px; box-shadow: 0 6px 12px rgba(244, 67, 54, 0.15);">
+    <h4 style="color: #D32F2F; margin-bottom: 14px; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🔒 Cloud Security</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #B71C1C; line-height: 1.7; font-size: 15px;">
       <li>IAM (Identity & Access Management)</li>
       <li>Security Groups & Network ACLs</li>
       <li>Encryption (KMS)</li>
     </ul>
   </div>
 
-  <div style="background: #E0F7FA; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 150, 136, 0.1);">
-    <h4 style="color: #00796B; margin-bottom: 12px;">🌐 Networking</h4>
-    <ul style="list-style:none; padding-left:0; color: #004D40; line-height: 1.6;">
+  <div style="flex: 1; min-width: 230px; background: linear-gradient(135deg, #E0F7FA, #B2EBF2); border-radius: 16px; padding: 24px; box-shadow: 0 6px 12px rgba(0, 150, 136, 0.15);">
+    <h4 style="color: #00796B; margin-bottom: 14px; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🌐 Networking</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #004D40; line-height: 1.7; font-size: 15px;">
       <li>TCP/IP & OSI Model</li>
       <li>VPCs & Subnets</li>
       <li>Route Tables & Gateways</li>
     </ul>
   </div>
 
-  <div style="background: #FFF3E0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 140, 0, 0.1);">
-    <h4 style="color: #EF6C00; margin-bottom: 12px;">🗣️ Languages</h4>
-    <ul style="list-style:none; padding-left:0; color: #A15A00; line-height: 1.6;">
+  <div style="flex: 1; min-width: 230px; background: linear-gradient(135deg, #FFF3E0, #FFE0B2); border-radius: 16px; padding: 24px; box-shadow: 0 6px 12px rgba(255, 152, 0, 0.15);">
+    <h4 style="color: #EF6C00; margin-bottom: 14px; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🗣️ Languages</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #E65100; line-height: 1.7; font-size: 15px;">
       <li>English (Professional)</li>
       <li>Arabic (Native)</li>
       <li>German (A2)</li>
     </ul>
   </div>
 
-  <div style="background: #E8F5E9; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(46, 125, 50, 0.1);">
-    <h4 style="color: #2E7D32; margin-bottom: 12px;">📚 Teaching Skills</h4>
-    <ul style="list-style:none; padding-left:0; color: #1B5E20; line-height: 1.6;">
+  <div style="flex: 1; min-width: 230px; background: linear-gradient(135deg, #E8F5E9, #C8E6C9); border-radius: 16px; padding: 24px; box-shadow: 0 6px 12px rgba(56, 142, 60, 0.15);">
+    <h4 style="color: #2E7D32; margin-bottom: 14px; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📚 Teaching Skills</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #1B5E20; line-height: 1.7; font-size: 15px;">
       <li>Curriculum Development</li>
       <li>Student Engagement</li>
+      <li>Assessment & Feedback</li>
     </ul>
   </div>
 
-  <div style="background: #F3E5F5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(123, 31, 162, 0.1);">
-    <h4 style="color: #8E24AA; margin-bottom: 12px;">💡 Soft Skills</h4>
-    <ul style="list-style:none; padding-left:0; color: #6A1B9A; line-height: 1.6;">
+  <div style="flex: 1; min-width: 230px; background: linear-gradient(135deg, #F3E5F5, #E1BEE7); border-radius: 16px; padding: 24px; box-shadow: 0 6px 12px rgba(123, 31, 162, 0.15);">
+    <h4 style="color: #8E24AA; margin-bottom: 14px; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💡 Soft Skills</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #6A1B9A; line-height: 1.7; font-size: 15px;">
       <li>Research</li>
       <li>Public Speaking</li>
       <li>Continuous Learning</li>
       <li>Presentation Skills</li>
+      <li>Leadership</li>
     </ul>
   </div>
 
 </div>
-
 
 
 
