@@ -147,6 +147,9 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
   Full-stack medical website with React, Node.js, Firebase; includes secure login and real-time database.
 
 ---
+## Recognition
+
+Acknowledged as a Tier 9 Creator (Top 1%) by Favikon for significant contributions to personal branding in technology education.
 
 ## 🌐 Socials
 
