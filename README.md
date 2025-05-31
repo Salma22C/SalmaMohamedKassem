@@ -43,11 +43,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 </div>
 
-
-
-### Other Skills  
-- Cloud Security: IAM, Security Groups, Network ACLs, Encryption (KMS)  
-- Networking: TCP/IP, OSI Model, VPCs, Subnets  
+<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 700px;"> <div style="flex: 1; min-width: 200px; background: #f0f4f8; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <h4 style="margin-bottom: 10px; color: #0073bb;">Cloud Security 🔒</h4> <ul style="list-style: none; padding-left: 0; line-height: 1.6; color: #333;"> <li>IAM (Identity & Access Management)</li> <li>Security Groups & Network ACLs</li> <li>Encryption (KMS)</li> </ul> </div> <div style="flex: 1; min-width: 200px; background: #f9f6ef; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <h4 style="margin-bottom: 10px; color: #db4c3f;">Networking 🌐</h4> <ul style="list-style: none; padding-left: 0; line-height: 1.6; color: #333;"> <li>TCP/IP & OSI Model</li> <li>VPCs & Subnets</li> <li>Route Tables & Gateways</li> </ul> </div> <div style="flex: 1; min-width: 200px; background: #eef7f6; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <h4 style="margin-bottom: 10px; color: #008080;">Data Analysis & Visualization 📊</h4> <ul style="list-style: none; padding-left: 0; line-height: 1.6; color: #333;"> <li>Power BI</li> <li>KPI Dashboards</li> <li>Excel Data Modeling</li> </ul> </div> </div>
 
 
 
