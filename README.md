@@ -20,7 +20,6 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 ## 💻 Tech Stack & Skills
 
-### Programming & Tools  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
@@ -28,7 +27,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-### Machine Learning & AI  
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
@@ -36,10 +35,11 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-0098D3?style=for-the-badge&logo=python&logoColor=green)  
 
-### AWS & Cloud Services  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-- S3, EC2, VPC, IAM, Auto Scaling, Load Balancers, AWS Config, CloudTrail, KMS, Systems Manager  
-- Amazon Rekognition, Amazon Bedrock, SageMaker Canvas  
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
+![AWS Rekognition](https://d1.awsstatic.com/re19/assets/aws_rekognition_icon.56fbd22f855d6b476159d0a3b8e936c5d1c7a4b8.png)
+
+-  Amazon Rekognition, Amazon Bedrock, SageMaker Canvas  
 
 ### Other Skills  
 - Cloud Security: IAM, Security Groups, Network ACLs, Encryption (KMS)  
@@ -48,7 +48,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 - Teaching & Mentoring: Curriculum design, labs, workshops, student support  
 - Languages: Arabic (Native), English (Proficient), German (A2)
 
----
+
 
 ## 💼 Experience
 
