@@ -42,6 +42,8 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
 
 </div>
+
+
 ## ⚙️ Other Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 900px; margin-top: 10px;">
@@ -67,9 +69,9 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
   <div style="flex: 1; min-width: 220px; background: #FFF3E0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 140, 0, 0.1);">
     <h4 style="color: #EF6C00; margin-bottom: 12px;">🗣️ Languages</h4>
     <ul style="list-style-type:none; padding-left:0; color: #A15A00; line-height: 1.6;">
-      <li>English (Fluent)</li>
+      <li>English (Proffesional)</li>
       <li>Arabic (Native)</li>
-      <li>French (Basic)</li>
+      <li>German (A2)</li>
     </ul>
   </div>
 
@@ -78,16 +80,17 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
     <ul style="list-style-type:none; padding-left:0; color: #1B5E20; line-height: 1.6;">
       <li>Curriculum Development</li>
       <li>Student Engagement</li>
-      <li>Technical Mentoring</li>
     </ul>
   </div>
 
   <div style="flex: 1; min-width: 220px; background: #F3E5F5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(123, 31, 162, 0.1);">
     <h4 style="color: #8E24AA; margin-bottom: 12px;">💡 Soft Skills</h4>
     <ul style="list-style-type:none; padding-left:0; color: #6A1B9A; line-height: 1.6;">
-      <li>Problem Solving</li>
-      <li>Collaboration & Teamwork</li>
+      <li>Researach</li>
+      <li>Public Speaking</li>
       <li>Continuous Learning</li>
+      <li>Presentation skills </li>
+      
     </ul>
   </div>
 
