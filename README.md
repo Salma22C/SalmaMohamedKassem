@@ -39,26 +39,22 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
 
 ![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
-
--  Amazon Rekognition, Amazon Bedrock, SageMaker Canvas  
 
 ### Other Skills  
 - Cloud Security: IAM, Security Groups, Network ACLs, Encryption (KMS)  
 - Networking: TCP/IP, OSI Model, VPCs, Subnets  
-- Data Analysis & Visualization: Power BI, KPI Dashboards  
-- Teaching & Mentoring: Curriculum design, labs, workshops, student support  
-- Languages: Arabic (Native), English (Proficient), German (A2)
+
+
+
 
 
 
 ## 💼 Experience
 
-### Cloud Computing Trainer | ICT Hub, Cairo  
-*July 2025 – Present*  
-- Designed AWS fundamentals and hands-on cloud course curriculum  
-- Delivered 40 hours of live, practical training with labs and capstone  
-- Mentored learners to build skills and prepare for AWS certifications  
+ 
 
 ### Teaching Assistant | Alexandria University  
 *Feb 2025 – June 2025*  
