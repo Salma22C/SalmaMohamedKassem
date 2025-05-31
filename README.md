@@ -46,46 +46,46 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 ## ⚙️ Other Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 900px; margin-top: 10px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 1100px; margin-top: 10px;">
 
-  <div style="flex: 1; min-width: 220px; background: #FFE5E5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 0, 0, 0.1);">
+  <div style="background: #FFE5E5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 0, 0, 0.1);">
     <h4 style="color: #D32F2F; margin-bottom: 12px;">🔒 Cloud Security</h4>
-    <ul style="list-style-type:none; padding-left:0; color: #5D1E1E; line-height: 1.6;">
+    <ul style="list-style:none; padding-left:0; color: #5D1E1E; line-height: 1.6;">
       <li>IAM (Identity & Access Management)</li>
       <li>Security Groups & Network ACLs</li>
       <li>Encryption (KMS)</li>
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 220px; background: #E0F7FA; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 150, 136, 0.1);">
+  <div style="background: #E0F7FA; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 150, 136, 0.1);">
     <h4 style="color: #00796B; margin-bottom: 12px;">🌐 Networking</h4>
-    <ul style="list-style-type:none; padding-left:0; color: #004D40; line-height: 1.6;">
+    <ul style="list-style:none; padding-left:0; color: #004D40; line-height: 1.6;">
       <li>TCP/IP & OSI Model</li>
       <li>VPCs & Subnets</li>
       <li>Route Tables & Gateways</li>
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 220px; background: #FFF3E0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 140, 0, 0.1);">
+  <div style="background: #FFF3E0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 140, 0, 0.1);">
     <h4 style="color: #EF6C00; margin-bottom: 12px;">🗣️ Languages</h4>
-    <ul style="list-style-type:none; padding-left:0; color: #A15A00; line-height: 1.6;">
+    <ul style="list-style:none; padding-left:0; color: #A15A00; line-height: 1.6;">
       <li>English (Professional)</li>
       <li>Arabic (Native)</li>
       <li>German (A2)</li>
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 220px; background: #E8F5E9; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(46, 125, 50, 0.1);">
+  <div style="background: #E8F5E9; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(46, 125, 50, 0.1);">
     <h4 style="color: #2E7D32; margin-bottom: 12px;">📚 Teaching Skills</h4>
-    <ul style="list-style-type:none; padding-left:0; color: #1B5E20; line-height: 1.6;">
+    <ul style="list-style:none; padding-left:0; color: #1B5E20; line-height: 1.6;">
       <li>Curriculum Development</li>
       <li>Student Engagement</li>
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 220px; background: #F3E5F5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(123, 31, 162, 0.1);">
+  <div style="background: #F3E5F5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(123, 31, 162, 0.1);">
     <h4 style="color: #8E24AA; margin-bottom: 12px;">💡 Soft Skills</h4>
-    <ul style="list-style-type:none; padding-left:0; color: #6A1B9A; line-height: 1.6;">
+    <ul style="list-style:none; padding-left:0; color: #6A1B9A; line-height: 1.6;">
       <li>Research</li>
       <li>Public Speaking</li>
       <li>Continuous Learning</li>
@@ -94,6 +94,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
   </div>
 
 </div>
+
 
 
 
