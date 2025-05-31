@@ -37,7 +37,8 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
-![AWS Rekognition](https://d1.awsstatic.com/re19/assets/aws_rekognition_icon.56fbd22f855d6b476159d0a3b8e936c5d1c7a4b8.png)
+![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 -  Amazon Rekognition, Amazon Bedrock, SageMaker Canvas  
 
