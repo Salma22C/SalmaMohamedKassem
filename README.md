@@ -34,8 +34,8 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-0098D3?style=for-the-badge&logo=python&logoColor=green)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
-![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=pink)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=red)
+![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=mint)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 
