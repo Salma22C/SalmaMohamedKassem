@@ -37,6 +37,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
+
 ![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
