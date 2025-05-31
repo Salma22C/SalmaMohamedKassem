@@ -1,48 +1,100 @@
-I’m a *Cloud Engineer* and *AI Practitioner*, passionate about AI and cloud computing.I enjoy solving complex problems, collaborating on innovative projects, and continuously learning. When I’m not working on tech, I love reading, writing, and exploring new ideas.  
+# Hi, I'm Salma Kassem 👋
 
-
-## 🎓 Certifications:
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white) 
-![Langchain](https://img.shields.io/badge/Langchain-0098D3?style=for-the-badge&logo=python&logoColor=green) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-
-## 🔥 Projects:
-
-- **[High Availability and Security for PHP Applications](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20and%20Security%20for%20PHP%20Applications%20)**  
-  *Designed a secure, scalable AWS architecture for PHP applications, ensuring high availability and enhanced security measures.*
-
-- **[Text Summarization Tool](https://github.com/Salma22C/AIprojects/blob/main/Text%20Summarization%20Tool/%20textsumm.py)**  
-  *Developed an AI-powered text summarization tool using NLP techniques to generate concise and accurate summaries.*
-- **[SmartBook AI – AI-Generated Interactive Video Ad](https://drive.google.com/file/d/1hVCBrN2lwGb4EfjzW1cQUwJD9IRsgr1w/view?usp=sharing)**
-*Created a short interactive video ad for a fictional talking notebook using DALL·E, ElevenLabs, Canva, and CapCut.*
-*Integrated AI-generated visuals, voiceovers, and emotional storytelling to showcase creative use of generative AI in product branding.*
-  
-## 📂 Repositories:
-Explore my repositories on GitHub for more projects and code samples:
-- [AWS Projects](https://github.com/Salma22C/awsprojects)
-- [AI Projects](https://github.com/Salma22C/AIprojects)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-mohamed-kassem)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmakassem6@gmail.com)  
-
-### ✍ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+**Cloud Engineer | AI Enthusiast | AWS Certified**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SalmaMohamed22&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+📍 Alexandria, Egypt | Open to relocating to Cairo  
+📧 [salmakassem6@gmail.com](mailto:salmakassem6@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/salma-mohamed-kassem)
+
+---
+
+## About Me
+
+I'm a Computer Science graduate passionate about designing secure, scalable cloud infrastructures with a strong focus on integrating AI-driven solutions. I specialize in AWS cloud technologies and enjoy leveraging machine learning and intelligent automation to optimize cloud operations and innovate in the tech space.
+
+Currently working as a **Cloud Computing Trainer** and actively pursuing my Master's in Computer Science.
+
+---
+
+## Experience
+
+### Cloud Computing Trainer  
+**ICT Hub, Cairo** | Jul 2025 – Present  
+- Designed and delivered a comprehensive AWS fundamentals course with hands-on labs and a capstone project.  
+- Guided students in building real-world cloud skills and preparing for AWS certifications.
+
+### Teaching Assistant  
+**Alexandria University, Egypt** | Feb 2025 – Jun 2025  
+- Supported 800+ students in Cloud Foundations, providing personalized mentorship and grading projects.  
+
+### Teaching Assistant  
+**Alexandria National University, Egypt** | Oct 2024 – Jan 2025  
+- Led lab sessions and assisted with AWS Cloud Foundations and Architecting courses.
+
+---
+
+## Projects
+
+### SmartBook AI – AI-Generated Interactive Video Ad  
+Graduation Project | AI Ambassadors Program  
+Tools: Canva, CapCut, ElevenLabs, ChatGPT, DALL·E  
+- Created an AI-powered interactive video ad featuring generative visuals and voiceovers.
+
+### Sales Performance Analysis Dashboard  
+Tools: Microsoft Power BI  
+- Developed interactive dashboards for sales analytics with dynamic filters and KPIs.
+
+### Document Summarization Tool  
+Tools: Python, NLP, Streamlit, Hugging Face Transformers  
+- Built an app for summarizing multi-format documents using transformer models.
+
+### AWS Security and Monitoring  
+- Implemented AWS Config, CloudWatch, IAM policies, and automated remediation for secure cloud resource management.
+
+---
+
+## Education
+
+- **M.S. in Computer Science** — Arab Academy for Science and Technology (2024–Present)  
+- **B.S. in Computer Science, Very Good** — Arab Academy for Science and Technology (2019–2023)
+
+---
+
+## Certifications & Training
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/dcd939d0-945a-4912-a542-517d8bb2e9a0/public_url) (Jan 2025)  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c233e1bb-67ae-4874-93e4-0b7131688df9/public_url) (Oct 2024)  
+- Introduction to Generative AI with AWS — Udacity (Jun 2025)  
+- LangChain for LLM Application Development — DeepLearning.AI (Mar 2025)  
+- Generative AI for Everyone — DeepLearning.AI (Feb 2025)  
+- Digital Egypt Pioneers Program — DEPI (Oct 2024)  
+- AWS Cloud Security Foundations — AWS Academy (Nov 2024)
+
+---
+
+## Skills
+
+- **Cloud:** AWS (S3, EC2, VPC, IAM, Auto Scaling, ALB, Config, Systems Manager, CloudTrail, KMS)  
+- **AI & ML:** Machine Learning, NLP, Generative AI, PyTorch, Hugging Face, LangChain  
+- **Programming:** Python, Git, Linux, Terraform  
+- **Data & Visualization:** Power BI, KPI Dashboards  
+- **Soft Skills:** Curriculum Design, Public Speaking, Mentoring, Research  
+- **Languages:** Arabic (Native), English (Proficient), German (A2)
+
+---
+
+## Contact Me
+
+Feel free to reach out via email or connect with me on LinkedIn — I'm open to collaboration, mentorship, and new opportunities!
+
+---
+
+**References available upon request.**
+
+---
+
+<p align="center">
+  <em>"Passionate about cloud innovation and AI-powered solutions."</em>
+</p>
