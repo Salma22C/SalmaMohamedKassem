@@ -33,9 +33,9 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-0098D3?style=for-the-badge&logo=python&logoColor=green)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=red)
-![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=mint)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-0098D3?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Rekognition-F57C00?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 
 
