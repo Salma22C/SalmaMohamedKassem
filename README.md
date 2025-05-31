@@ -25,11 +25,11 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 600px;">
 
 ![Python](https://img.shields.io/badge/python-1E90FF?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/git-6E6E6E?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/git-F9D71C?style=for-the-badge&logo=git&logoColor=black)  
 ![Linux](https://img.shields.io/badge/Linux-808080?style=for-the-badge&logo=linux&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-696969?style=for-the-badge&logo=terraform&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-708090?style=for-the-badge&logo=docker&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-F9D71C?style=for-the-badge&logo=microsoft-excel&logoColor=black)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E90FF?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-DA70D6?style=for-the-badge&logo=huggingface&logoColor=white)  
@@ -40,7 +40,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Rekognition-3EB489?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
-![Canva](https://img.shields.io/badge/Canva-008080?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-FF8C00?style=for-the-badge&logo=canva&logoColor=white)
 
 
 </div>
