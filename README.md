@@ -69,7 +69,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
   <div style="flex: 1; min-width: 220px; background: #FFF3E0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(255, 140, 0, 0.1);">
     <h4 style="color: #EF6C00; margin-bottom: 12px;">🗣️ Languages</h4>
     <ul style="list-style-type:none; padding-left:0; color: #A15A00; line-height: 1.6;">
-      <li>English (Proffesional)</li>
+      <li>English (Professional)</li>
       <li>Arabic (Native)</li>
       <li>German (A2)</li>
     </ul>
@@ -83,16 +83,14 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
     </ul>
   </div>
 
- <div style="flex: 1; min-width: 220px; background: #F3E5F5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(123, 31, 162, 0.1);">
-  <h4 style="color: #8E24AA; margin-bottom: 12px;">💡 Soft Skills</h4>
-  <ul style="list-style-type:none; padding-left:0; color: #6A1B9A; line-height: 1.6;">
-    <li>Research</li>
-    <li>Public Speaking</li>
-    <li>Continuous Learning</li>
-    <li>Presentation Skills</li>
-  </ul>
-</div>
-
+  <div style="flex: 1; min-width: 220px; background: #F3E5F5; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(123, 31, 162, 0.1);">
+    <h4 style="color: #8E24AA; margin-bottom: 12px;">💡 Soft Skills</h4>
+    <ul style="list-style-type:none; padding-left:0; color: #6A1B9A; line-height: 1.6;">
+      <li>Research</li>
+      <li>Public Speaking</li>
+      <li>Continuous Learning</li>
+      <li>Presentation Skills</li>
+    </ul>
   </div>
 
 </div>
