@@ -8,9 +8,10 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ## 🎓 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+
 ## 🎓 Courses
-![Introduction to Generative AI with AWS](https://img.shields.io/badge/Generative%20AI%20with%20AWS-%23007ACC?style=for-the-badge&logo=udacity&logoColor=white)  
+![Introduction to Generative AI with AWS](https://img.shields.io/badge/Generative%20AI%20with%20AWS-%23007ACC?style=for-the-badge&logo=udacity&logoColor=blue)  
 ![LangChain for LLM Application Development](https://img.shields.io/badge/LangChain-0098D3?style=for-the-badge&logo=python&logoColor=green)  
 ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-%230072C6?style=for-the-badge&logo=deeplearning-ai&logoColor=white)  
 ![Digital Egypt Pioneers Program](https://img.shields.io/badge/Digital%20Egypt%20Pioneers-%2300A859?style=for-the-badge&logo=government&logoColor=white)  
@@ -27,15 +28,12 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![NLTK](https://img.shields.io/badge/NLTK-0098D3?style=for-the-badge&logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-0098D3?style=for-the-badge&logo=python&logoColor=green)  
-
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
 
 ![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
