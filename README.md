@@ -124,6 +124,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ---
 
 ## 🔥 Projects
+- **[Voice Vault - Text to Speech Automation using AWS S3, Lambda, and Polly](https://github.com/Salma22C/awsprojects/blob/main/Voice%20Vault%20Project/README.md#voice-vault---text-to-speech-automation-using-aws-s3-lambda-and-polly)**
 
 - **[High Availability and Security for PHP Applications](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20and%20Security%20for%20PHP%20Applications%20)**  
   Designed a secure, scalable AWS architecture for PHP apps ensuring high availability and security.
