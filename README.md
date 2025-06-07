@@ -124,8 +124,11 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ---
 
 ## 🔥 Projects
-- **[Voice Vault - Text to Speech Automation using AWS S3, Lambda, and Polly](https://github.com/Salma22C/awsprojects/blob/main/Voice%20Vault%20Project/README.md#voice-vault---text-to-speech-automation-using-aws-s3-lambda-and-polly)**
+- **[Lambda Copy Automation](https://github.com/Salma22C/awsprojects/tree/main/Lambda%20copy%20Automation)**  
+  This AWS Lambda project automatically copies newly uploaded `.txt` files from the `notes/` folder to the `archive/` folder within the same S3 bucket. It leverages S3 event triggers and Lambda’s serverless computing to create a seamless and automated file archiving process without manual intervention.
 
+- **[Voice Vault - Text to Speech Automation using AWS S3, Lambda, and Polly](https://github.com/Salma22C/awsprojects/blob/main/Voice%20Vault%20Project/README.md#voice-vault---text-to-speech-automation-using-aws-s3-lambda-and-polly)**  
+  A serverless project that automates converting text notes stored in an AWS S3 bucket into audio files using AWS Lambda and Amazon Polly. This solution listens for new text uploads, synthesizes speech, and saves MP3 audio files back to S3 — all without any servers to manage. Perfect for learning event-driven architectures, serverless compute, and AWS text-to-speech services.
 - **[High Availability and Security for PHP Applications](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20and%20Security%20for%20PHP%20Applications%20)**  
   Designed a secure, scalable AWS architecture for PHP apps ensuring high availability and security.
 
@@ -134,18 +137,6 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 - **[SmartBook AI – AI-Generated Interactive Video Ad](https://drive.google.com/file/d/1hVCBrN2lwGb4EfjzW1cQUwJD9IRsgr1w/view?usp=sharing)**  
   Created an interactive video ad using DALL·E, ElevenLabs, Canva, and CapCut integrating generative AI visuals and storytelling.
-
-- **Sales Performance Analysis Dashboard**  
-  Interactive Power BI dashboard analyzing sales by product, region, and channel with KPIs and filters.
-
-- **Document Summarization Tool (NLP + Streamlit)**  
-  Summarizes multi-format documents using Hugging Face BART model and TF-IDF keyword extraction.
-
-- **Securing and Monitoring Resources (AWS)**  
-  Implemented AWS Config, CloudWatch alerts, IAM policies, and automated remediation.
-
-- **Se7atak App**  
-  Full-stack medical website with React, Node.js, Firebase; includes secure login and real-time database.
 
 ---
 ## 🏆Recognition
