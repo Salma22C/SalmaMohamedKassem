@@ -23,24 +23,21 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 600px;">
-
-  <img src="https://img.shields.io/badge/python-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/git-F9D71C?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-808080?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Excel-F9D71C?style=for-the-badge&logo=microsoft-excel&logoColor=black" alt="Excel" />
-  <img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-1E90FF?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/HuggingFace-DA70D6?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/scikit--learn-1E90FF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NLTK-DA70D6?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
-  <img src="https://img.shields.io/badge/LangChain-BA55D3?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock" />
-  <img src="https://img.shields.io/badge/Amazon%20Rekognition-3EB489?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Rekognition" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Canva-FF8C00?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-
+<img src="https://img.shields.io/badge/python-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/git-F9D71C?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-808080?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Excel-F9D71C?style=for-the-badge&logo=microsoft-excel&logoColor=black" alt="Excel" />
+<img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-1E90FF?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/HuggingFace-DA70D6?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/scikit--learn-1E90FF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NLTK-DA70D6?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+<img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Amazon%20Polly-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Polly" />
+<img src="https://img.shields.io/badge/Amazon%20Comprehend-7AC142?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Comprehend" />
+<img src="https://img.shields.io/badge/Amazon%20Rekognition-3EB489?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Rekognition" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
 </div>
 
 
