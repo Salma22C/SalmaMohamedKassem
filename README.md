@@ -28,7 +28,6 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
   <img src="https://img.shields.io/badge/git-F9D71C?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-808080?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-708090?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Excel-F9D71C?style=for-the-badge&logo=microsoft-excel&logoColor=black" alt="Excel" />
   <img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-1E90FF?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
