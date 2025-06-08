@@ -124,9 +124,9 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ---
 
 ## 🔥 Projects
-- **[Lambda Copy Automation](https://github.com/Salma22C/awsprojects/tree/main/Lambda%20copy%20Automation)**  
-  This AWS Lambda project automatically copies newly uploaded `.txt` files from the `notes/` folder to the `archive/` folder within the same S3 bucket. It leverages S3 event triggers and Lambda’s serverless computing to create a seamless and automated file archiving process without manual intervention.
 
+**[Serverless Image Tagging with Amazon Rekognition](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Image%20Recognition%20Pipeline)**  
+This project builds a serverless image analysis pipeline that automatically tags images uploaded to the `uploads/` folder in an S3 bucket using AWS Lambda and Amazon Rekognition. Detected labels and scene metadata are stored as JSON files in the `metadata/` folder, enabling easy search and organization of image collections without manual tagging.
 - **[Voice Vault - Text to Speech Automation using AWS S3, Lambda, and Polly](https://github.com/Salma22C/awsprojects/blob/main/Voice%20Vault%20Project/README.md#voice-vault---text-to-speech-automation-using-aws-s3-lambda-and-polly)**  
   A serverless project that automates converting text notes stored in an AWS S3 bucket into audio files using AWS Lambda and Amazon Polly. This solution listens for new text uploads, synthesizes speech, and saves MP3 audio files back to S3 — all without any servers to manage. Perfect for learning event-driven architectures, serverless compute, and AWS text-to-speech services.
 - **[High Availability and Security for PHP Applications](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20and%20Security%20for%20PHP%20Applications%20)**  
@@ -137,7 +137,8 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 - **[SmartBook AI – AI-Generated Interactive Video Ad](https://drive.google.com/file/d/1hVCBrN2lwGb4EfjzW1cQUwJD9IRsgr1w/view?usp=sharing)**  
   Created an interactive video ad using DALL·E, ElevenLabs, Canva, and CapCut integrating generative AI visuals and storytelling.
-
+- **[Lambda Copy Automation](https://github.com/Salma22C/awsprojects/tree/main/Lambda%20copy%20Automation)**  
+  This AWS Lambda project automatically copies newly uploaded `.txt` files from the `notes/` folder to the `archive/` folder within the same S3 bucket. It leverages S3 event triggers and Lambda’s serverless computing to create a seamless and automated file archiving process without manual intervention.
 ---
 ## 🏆Recognition
 
