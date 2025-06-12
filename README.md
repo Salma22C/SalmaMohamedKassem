@@ -69,7 +69,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 
 ## 🔥 Projects
  - **[Podcast Insights Dashboard](https://github.com/Salma22C/awsprojects/blob/main/Podcast%20Insights%20Dashboard/Readme.md)**
-  Designed a serverless analytics pipeline using AWS S3, Glue, Athena, and QuickSight to visualize podcast listening behavior.
+  Designed a serverless analytics pipeline using AWS S3, Glue, Athena.
 - **[Text Summarization and Speech Synthesis Pipeline](https://github.com/Salma22C/awsprojects/tree/main/AWS%20Text%20Summarization%20%26%20Speech%20Synthesis)**  
   An event-driven serverless pipeline using AWS Lambda, Amazon Comprehend, and Amazon Polly that processes text files uploaded to S3 by generating concise summaries and converting them into audio files. Demonstrates multi-service AI integration, IAM role management, and automated workflows.
 
