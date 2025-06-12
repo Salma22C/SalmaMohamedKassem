@@ -68,7 +68,7 @@ When I’m not working on tech, I love reading, writing, and exploring new ideas
 ---
 
 ## 🔥 Projects
-**[Text Summarization and Speech Synthesis Pipeline](https://github.com/Salma22C/awsprojects/blob/main/Text%20Summarization%20Tool/%20textsumm.py)**  
+**[Text Summarization and Speech Synthesis Pipeline]([https://github.com/Salma22C/awsprojects/blob/main/Text%20Summarization%20Tool/%20textsumm.py](https://github.com/Salma22C/awsprojects/tree/main/AWS%20Text%20Summarization%20%26%20Speech%20Synthesis))**  
   An event-driven serverless pipeline using AWS Lambda, Amazon Comprehend, and Amazon Polly that processes text files uploaded to S3 by generating concise summaries and converting them into audio files. Demonstrates multi-service AI integration, IAM role management, and automated workflows.
 **[Serverless Image Tagging with Amazon Rekognition](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Image%20Recognition%20Pipeline)**  
 This project builds a serverless image analysis pipeline that automatically tags images uploaded to the `uploads/` folder in an S3 bucket using AWS Lambda and Amazon Rekognition. Detected labels and scene metadata are stored as JSON files in the `metadata/` folder, enabling easy search and organization of image collections without manual tagging.
