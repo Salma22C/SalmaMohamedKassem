@@ -8,8 +8,8 @@
 
 ## 🏅 Certifications
 
-- 🟧 *AWS Certified Cloud Practitioner*  
-- 🟨 *AWS Certified Solutions Architect – Associate*  
+ 🟧 *AWS Certified Cloud Practitioner*  
+ 🟨 *AWS Certified Solutions Architect – Associate*  
 
 
 ## 🚀 Featured Projects
@@ -33,6 +33,14 @@
 - **[🌐 Static Website Hosting with Terraform](https://github.com/Salma22C/awsprojects/blob/main/Static%20Website%20Hosting%20with%20Terraform)**  
   Deploys a static site to S3 using Infrastructure as Code with Terraform.  
   *Tools:* S3, Terraform, IAM
+  
+ - **[🔁 Automated S3 File Copy Using AWS Lambda](https://github.com/Salma22C/awsprojects/tree/main/Lambda%20copy%20Automation)**  
+  Automates the copying of files between S3 buckets using an event-driven Lambda function.  
+  *AWS Services:* Lambda, S3, IAM
+   
+- **[🛡️ High Availability & Security for PHP Apps](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20PHP%20App)**  
+  Deploys a PHP application using EC2, RDS, Auto Scaling, and ALB—all via AWS Console. Designed for high availability and secure VPC networking.  
+  *AWS Services:* EC2, ALB, Auto Scaling Group, RDS, Security Groups
 
 ---
 
