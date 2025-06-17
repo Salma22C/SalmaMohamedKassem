@@ -26,6 +26,10 @@ AWS Services: API Gateway, Lambda, Bedrock
  **[📊 FinOps Dashboard – Cost Visualization](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Data%20Analytics%20and%20Visualization%20Pipeline)**  
   Built a full data analytics pipeline to visualize AWS cost data. This project involved overcoming the learning curve of integrating Athena, Glue, and QuickSight, and    reflects competence in building multi-tier, serverless analytics solutions.
   AWS Services: S3, Glue, Athena, QuickSight, Lambda
+  
+**[🎙️ Podcast Insights Dashboard](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Data%20Analytics%20and%20Visualization%20Pipeline)**  
+Designed to extract actionable insights from `.csv` podcast episode data (e.g., listener stats, publish dates), this serverless analytics pipeline leverages S3, Glue, and Athena to process structured podcast data. Initially faced challenges with QuickSight setup and Athena query tuning, but later resolved data source permissions and completed dashboard integration—showcasing persistence and problem-solving in real-world data pipelines.  
+AWS Services: S3, Glue, Athena, QuickSight, Lambda, CloudWatch
 
 **[📷 Image Recognition Pipeline](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Image%20Recognition%20Pipeline)**  
   Implements an automated tagging system for uploaded images using Rekognition, all within a serverless architecture.
