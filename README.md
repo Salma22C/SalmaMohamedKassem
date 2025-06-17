@@ -4,18 +4,13 @@
 🔭 I’m currently building **AI-powered and serverless solutions** using AWS services like Lambda, Polly, Comprehend, and Bedrock — focusing on automation, NLP, and cost-efficient architecture.  
 
 
----
+
 
 ## 🏅 Certifications
 
 - 🟧 *AWS Certified Cloud Practitioner*  
 - 🟨 *AWS Certified Solutions Architect – Associate*  
 
-📚 Learn more about these certifications from AWS:  
-- [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
-- [AWS Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-
----
 
 ## 🚀 Featured Projects
 
