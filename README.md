@@ -2,7 +2,7 @@
 <h3 align="center">🌩 Junior Cloud Engineer | AWS Certified | Passionate about AI & Serverless</h3>
 
 🔭 I’m currently building **AI-powered and serverless solutions** using AWS services like Lambda, Polly, Comprehend, and Bedrock — focusing on automation, NLP, and cost-efficient architecture.  
-⚠️ I don’t build traditional cloud-native apps — my work is centered on **serverless workflows** and **event-driven architectures**, not container-based microservices.
+
 
 ---
 
