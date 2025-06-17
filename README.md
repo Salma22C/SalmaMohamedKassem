@@ -41,23 +41,6 @@ I enjoy solving complex problems, collaborating on innovative projects, and cont
 <img src="https://img.shields.io/badge/Amazon%20Rekognition-3EB489?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
 </div>
-
-
-
-## 💼 Experience
-
-### Teaching Assistant | Alexandria University  
-📅 *Feb 2025 – June 2025*  
-- Supported 800 students in the Cloud Foundations course  
-- Delivered office hours and personalized mentorship  
-- Assisted with grading and project design using AWS tools  
-
-### Teaching Assistant | Alexandria National University  
-📅 *Oct 2024 – Jan 2025*  
-- Taught foundational and advanced AWS courses  
-- Guided students in labs and hands-on projects  
-
-
 ## 🌟 Projects
 
 - **[Amazon Bedrock Code Assistant API](https://github.com/Salma22C/awsprojects/tree/main/Amazon%20Bedrock%20Code%20Assistant%20API)**  
