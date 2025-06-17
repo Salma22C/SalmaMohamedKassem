@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Salma Mohamed</h1>
 <h3 align="center">🌩 Junior Cloud Engineer | AWS Certified | AI & Serverless Enthusiast</h3>
 
+💡 *Aspiring Cloud Engineer passionate about building secure, automated, and AI-integrated solutions on AWS.*
+
 🔭 I’m currently building **AI-powered and serverless solutions** on AWS — focusing on automation, NLP, and cost-efficient architecture using services like Lambda, Polly, Comprehend, and Bedrock.
 
 
 
 ## 🏅 Certifications
 
-🟧 *AWS Certified Cloud Practitioner*  
- 🟨 *AWS Certified Solutions Architect – Associate*
-
+- 🟧 *AWS Certified Cloud Practitioner*  
+- 🟨 *AWS Certified Solutions Architect – Associate*
 
 
 ## 🚀 Featured Projects
@@ -70,4 +71,5 @@
 - 💼 [LinkedIn – Salma Mohamed Kassem](https://www.linkedin.com/in/salma-mohamed-kassem)  
 - 📧 [Email – salmakassem6@gmail.com](mailto:salmakassem6@gmail.com)
 
----
+
+
