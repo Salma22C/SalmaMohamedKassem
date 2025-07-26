@@ -13,57 +13,128 @@
  🟨 *AWS Certified Solutions Architect – Associate*
 
 
-## 🚀 Featured Projects
+## 🚀 AWS Projects Portfolio
+### [🌍 AWS Text Translation App](https://github.com/Salma22C/awsprojects/tree/main/AWS%20Text%20Translation%20App)  
+A fully serverless text translation app with a static web UI.  
+- **Text Translation API**:
+  - Lambda backend using `boto3.translate`  
+  - API Gateway exposes `POST /Translator` endpoint  
+  - Auto-detects source language and returns translated text  
+- **Frontend**:
+  - Hosted on S3 (Static Website Hosting)  
+  - HTML/JS interface with textarea, dropdown, and fetch call  
+- **AWS Services**: Lambda, Amazon Translate, API Gateway, S3  
 
- **[🗣 Voice Vault – Text-to-Speech Pipeline](https://github.com/Salma22C/awsprojects/blob/main/Voice%20Vault%20Project)**  
- Designed to convert long-form .txt documents into audio files for video content creation, this project demonstrates a practical application of serverless technologies. It uses Amazon Polly for speech synthesis and Comprehend for optional summarization.
-AWS Services: Lambda, S3, Polly, Comprehend, IAM
+### [🖼️ AWS S3 Image Thumbnail Generator](https://github.com/Salma22C/awsprojects/tree/main/AutoThumbailGenerator)  
+Automatically generates 128x128 thumbnails for images uploaded to S3.  
+- **Architecture**:
+  - S3 triggers Lambda function on image upload  
+  - Pillow (via Lambda Layer) processes the image  
+  - Thumbnails saved under `thumbnails/` folder  
+- **Security**: IAM roles for Lambda to interact with S3  
+- **AWS Services**: S3, Lambda, IAM  
 
- **[🤖 Bedrock Code Assistant API](https://github.com/Salma22C/awsprojects/tree/main/Amazon%20Bedrock%20Code%20Assistant%20API)**  
- A hands-on project to practice Amazon Bedrock concepts, this assistant transforms natural language prompts into Python code using Claude Instant. It also tackled the challenge of using API Gateway for the first time, showcasing adaptability in learning unfamiliar services.
-AWS Services: API Gateway, Lambda, Bedrock
+### [🧠 Multilingual Customer Feedback Analyzer](https://github.com/Salma22C/awsprojects/tree/main/Multilingual%20Customer%20Feedback%20Analyzer)  
+Serverless system for collecting and analyzing multilingual customer feedback.  
+- **Pipeline**:
+  - Public API collects feedback  
+  - Amazon Translate converts to English  
+  - Amazon Comprehend analyzes sentiment  
+  - DynamoDB stores data  
+  - SNS sends alert if sentiment is negative  
+- **AWS Services**: API Gateway, Lambda, Translate, Comprehend, DynamoDB, SNS  
 
- **[📊 FinOps Dashboard – Cost Visualization](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Data%20Analytics%20and%20Visualization%20Pipeline)**  
-  Built a full data analytics pipeline to visualize AWS cost data. This project involved overcoming the learning curve of integrating Athena, Glue, and QuickSight, and    reflects competence in building multi-tier, serverless analytics solutions.
-  AWS Services: S3, Glue, Athena, QuickSight, Lambda
-  
-**[🎙️ Podcast Insights Dashboard](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Data%20Analytics%20and%20Visualization%20Pipeline)**  
-Designed to extract actionable insights from `.csv` podcast episode data (e.g., listener stats, publish dates), this serverless analytics pipeline leverages S3, Glue, and Athena to process structured podcast data. Initially faced challenges with QuickSight setup and Athena query tuning, but later resolved data source permissions and completed dashboard integration—showcasing persistence and problem-solving in real-world data pipelines.  
-AWS Services: S3, Glue, Athena, QuickSight, Lambda, CloudWatch
+### [🧾 EC2 Monitoring on AWS with Terraform](https://github.com/Salma22C/awsprojects/tree/main/Terraform-EC2-Monitoring)  
+Provisions a secure, monitored AWS environment using Terraform.  
+- **Infrastructure**:
+  - VPC with public/private subnets  
+  - EC2 with detailed monitoring  
+  - Security Groups with SSH access  
+  - VPC Flow Logs via CloudWatch  
+  - IAM roles for logging and monitoring  
+- **Tools**: Terraform, EC2, VPC, CloudWatch, IAM  
 
-**[📷 Image Recognition Pipeline](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Image%20Recognition%20Pipeline)**  
-  Implements an automated tagging system for uploaded images using Rekognition, all within a serverless architecture.
-  AWS Services: Lambda, S3, Rekognition, CloudWatch
 
- **[🌐 Static Website Hosting with Terraform](https://github.com/Salma22C/awsprojects/blob/main/Static%20Website%20Hosting%20with%20Terraform)**  
-  First-time use of Terraform to deploy a static website to S3. This Infrastructure as Code (IaC) project demonstrates initiative in mastering IaC principles, from     writing Terraform configurations to achieving a successful deployment.
-   Tools: S3, Terraform, IAM
+### [🗣 Voice Vault – Text-to-Speech Pipeline](https://github.com/Salma22C/awsprojects/blob/main/Voice%20Vault%20Project)  
+Converts long-form `.txt` documents into audio files for video content creation using a fully serverless architecture.  
+- **Key Features**:
+  - Amazon Polly for speech synthesis  
+  - Optional summarization with Amazon Comprehend  
+- **AWS Services**: Lambda, S3, Polly, Comprehend, IAM  
 
- **[🔁 Automated S3 File Copy Using AWS Lambda](https://github.com/Salma22C/awsprojects/tree/main/Lambda%20copy%20Automation)**  
-  Automates file transfer between S3 buckets using Lambda. As your first Lambda-based project, it involved troubleshooting through CloudWatch logs, IAM policies, and S3 triggers—highlighting your debugging and problem-solving capabilities.
-AWS Services: Lambda, S3, IAM
 
- **[🛡️ High Availability & Security for PHP Apps](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20PHP%20App)**  
-  Deployed a PHP web application using EC2, Multi-AZ RDS, ALB, and Auto Scaling to build a resilient, multi-tier architecture. A major challenge involved configuring health checks and launch templates to ensure instances in the Auto Scaling Group registered correctly with the Load Balancer. This project demonstrates ability to design fault-tolerant, secure cloud environments and troubleshoot deployment issues at the infrastructure level.
-AWS Services: EC2, ALB, Auto Scaling Group, RDS, Security Groups
+### [🤖 Bedrock Code Assistant API](https://github.com/Salma22C/awsprojects/tree/main/Amazon%20Bedrock%20Code%20Assistant%20API)  
+Transforms natural language prompts into Python code using Claude Instant via Amazon Bedrock.  
+- **Highlights**:
+  - First-time use of API Gateway  
+  - Demonstrates adaptability in learning new AWS services  
+- **AWS Services**: API Gateway, Lambda, Bedrock  
+
+
+
+### [📊 FinOps Dashboard – Cost Visualization](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Data%20Analytics%20and%20Visualization%20Pipeline)  
+Built a multi-tier analytics pipeline to visualize AWS cost and usage data.  
+- **Tech Stack**:
+  - Data cataloging with Glue  
+  - Querying with Athena  
+  - Visualization with QuickSight  
+- **AWS Services**: S3, Glue, Athena, QuickSight, Lambda  
+
+
+
+### [📷 Image Recognition Pipeline](https://github.com/Salma22C/awsprojects/tree/main/Serverless%20Image%20Recognition%20Pipeline)  
+Automatically tags images uploaded to an S3 bucket using a serverless Rekognition pipeline.  
+- **AWS Services**: Lambda, S3, Rekognition, CloudWatch  
+
+
+### [🛡️ High Availability & Security for PHP Apps](https://github.com/Salma22C/awsprojects/tree/main/High%20Availability%20PHP%20App)  
+Deployed a PHP web app with high availability and resilience.  
+- **Features**:
+  - Multi-AZ RDS backend  
+  - Load-balanced EC2 instances  
+  - Auto Scaling with health checks  
+- **AWS Services**: EC2, ALB, Auto Scaling Group, RDS, Security Groups  
+
+
 
 
 ## 🧰 Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon DynamoDB"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon EventBridge"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon CloudWatch"/>
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon VPC"/>
+  <img src="https://img.shields.io/badge/Polly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Polly"/>
+  <img src="https://img.shields.io/badge/Comprehend-4CAF50?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Comprehend"/>
+  <img src="https://img.shields.io/badge/Rekognition-3EB489?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Rekognition"/>
+  <img src="https://img.shields.io/badge/QuickSight-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon QuickSight"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Polly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Polly"/>
-  <img src="https://img.shields.io/badge/Comprehend-4CAF50?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Comprehend"/>
-  <img src="https://img.shields.io/badge/Rekognition-3EB489?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Rekognition"/>
-  <img src="https://img.shields.io/badge/QuickSight-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white" alt="QuickSight"/>
 </p>
 
 
+
+
+## 🧑‍🏫 Training Experience
+Alongside building cloud-native solutions, I’ve also served as a Cloud & DevOps Trainer at ICT Hub, Cairo, where I delivered hands-on AWS training to early-career engineers and students.
+
+My training focused on:
+
+```
+    - Learning by building — guiding students through real-world projects like serverless text-to-speech apps, cost dashboards, and AI-powered automation.
+    - Real-world application — using AWS Free Tier to simulate production environments with services like Lambda, S3, Athena, Rekognition, and Bedrock.
+    - Feedback-driven teaching — creating a collaborative, supportive environment that helped learners build confidence alongside technical skills.
+```
+    
+    💬 “Before this course, cloud computing felt overwhelming. But these hands-on projects made everything click. I now feel ready to build and present my own cloud solutions.”
+    — Student, AWS Training Program
 
 ## 🔗 Explore More
 
