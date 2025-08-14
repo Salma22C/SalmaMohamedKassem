@@ -103,6 +103,10 @@ Deployed a PHP web app with high availability and resilience.
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon EC2"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Virtualization-0078D4?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtualization"/>
+  <img src="https://img.shields.io/badge/Networking-4285F4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon DynamoDB"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon S3"/>
   <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon EventBridge"/>
@@ -122,6 +126,7 @@ Deployed a PHP web app with high availability and resilience.
 
 
 
+
 ## 🧑‍🏫 Training Experience
 Alongside building cloud-native solutions, I’ve also served as a Cloud & DevOps Trainer at ICT Hub, Cairo, where I delivered hands-on AWS training to early-career engineers and students.
 
@@ -134,7 +139,7 @@ My training focused on:
 ```
     
     💬 “Before this course, cloud computing felt overwhelming. But these hands-on projects made everything click. I now feel ready to build and present my own cloud solutions.”
-    — Student, AWS Training Program
+    — Student, Student Feedback
 
 ## 🔗 Explore More
 
